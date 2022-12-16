@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on iOS and Android apps for early-stage startups
+- 🌱 I’m currently learning how to build things work making
