@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning how to make things work making
 - 💬 Ask me about leaving a traditional job for the startup life
 - ⚡ This is my favorite video https://www.youtube.com/watch?v=zWH_9VRWn8Y
-  - I wrote about it https://medianpeak.substack.com/p/reflections-on-a-depressed-penguin
+  - ✍️ I wrote about it https://medianpeak.substack.com/p/reflections-on-a-depressed-penguin
