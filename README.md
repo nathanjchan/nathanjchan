@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on iOS and Android apps for early-stage startups
 - 🌱 I’m currently learning how to make things work making
-- 💬 Ask me about leaving a traditional job for the startup life
+- 💬 Ask me about leaving a job you're not sure you like
 - ⚡ This is my favorite video https://www.youtube.com/watch?v=zWH_9VRWn8Y
   - ✍️ I wrote about it https://medianpeak.substack.com/p/reflections-on-a-depressed-penguin
